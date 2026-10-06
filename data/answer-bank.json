@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "priority": [
+    {
+      "answer": "MANDY",
+      "clue": "The only acceptable version of Amanda",
+      "tags": [
+        "personal",
+        "name"
+      ]
+    },
+    {
+      "answer": "HINGE",
+      "clue": "Where this whole thing technically started",
+      "tags": [
+        "personal",
+        "origin"
+      ]
+    },
+    {
+      "answer": "AIRPORT",
+      "clue": "Where we first met in person",
+      "tags": [
+        "personal",
+        "origin"
+      ]
+    },
+    {
+      "answer": "ALCATRAZ",
+      "clue": "Where she voluntarily got trapped with me on our first date",
+      "tags": [
+        "personal",
+        "date"
+      ]
+    },
+    {
+      "answer": "POPPY",
+      "clue": "The perfect one, obviously",
+      "tags": [
+        "personal",
+        "cat"
+      ]
+    },
+    {
+      "answer": "KARL",
+      "clue": "The bad one, obviously",
+      "tags": [
+        "personal",
+        "cat"
+      ]
+    },
+    {
+      "answer": "HAYLEY",
+      "clue": "The coolest girl in the world, according to Mandy (and no, it’s not her)",
+      "tags": [
+        "personal",
+        "music"
+      ]
+    },
+    {
+      "answer": "HARBIN",
+      "clue": "A favorite place to soak and escape",
+      "tags": [
+        "personal",
+        "place"
+      ]
+    },
+    {
+      "answer": "PHILLY",
+      "clue": "Where our next chapter started",
+      "tags": [
+        "personal",
+        "future"
+      ]
+    },
+    {
+      "answer": "PORCH",
+      "clue": "Our new coffee spot",
+      "tags": [
+        "personal",
+        "home"
+      ]
+    },
+    {
+      "answer": "GREECE",
+      "clue": "A place still waiting for us",
+      "tags": [
+        "personal",
+        "future"
+      ]
+    },
+    {
+      "answer": "COMMIT",
+      "clue": "First part of advice from a certain Hinge profile",
+      "tags": [
+        "personal",
+        "theme"
+      ]
+    },
+    {
+      "answer": "BIT",
+      "clue": "What that Hinge-profile advice said to commit to",
+      "tags": [
+        "personal",
+        "theme"
+      ]
+    }
+  ],
+  "secondary": [
+    {
+      "answer": "REDDIT",
+      "note": "Hayley Williams show: friends bailed, Mandy found a random couple on Reddit"
+    },
+    {
+      "answer": "PERKINS",
+      "note": "Perkins Builder Brothers"
+    },
+    {
+      "answer": "SEWING",
+      "note": "Mandy loves fun patterns and colors"
+    },
+    {
+      "answer": "COOKIE",
+      "note": "Chocolate chip cookies"
+    },
+    {
+      "answer": "CHOCOLATE",
+      "note": "Favorite sweet category"
+    }
+  ],
+  "reveal": {
+    "text": "WILLYOUMARRYME",
+    "visible_before_completion": false
+  }
+}
