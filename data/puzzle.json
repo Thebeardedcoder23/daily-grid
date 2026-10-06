@@ -1,0 +1,117 @@
+{
+  "title": "Daily Grid",
+  "width": 11,
+  "height": 11,
+  "grid": [
+    "P###COOKIE#",
+    "O######A###",
+    "R#ALCATRAZ#",
+    "C####I#L##H",
+    "HOME#R####A",
+    "##A##PHILLY",
+    "##N##O####L",
+    "##D##R####E",
+    "##YOUTUBE#Y",
+    "#######I###",
+    "##COMMIT###"
+  ],
+  "entries": [
+    {
+      "number": 1,
+      "direction": "down",
+      "answer": "PORCH",
+      "row": 0,
+      "col": 0,
+      "clue": "Where coffee became part of our new Philly routine"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "answer": "COOKIE",
+      "row": 0,
+      "col": 4,
+      "clue": "The correct kind is chocolate chip"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "answer": "KARL",
+      "row": 0,
+      "col": 7,
+      "clue": "The bad one, obviously"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "answer": "ALCATRAZ",
+      "row": 2,
+      "col": 2,
+      "clue": "Where she voluntarily got trapped with me on our first date"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "answer": "AIRPORT",
+      "row": 2,
+      "col": 5,
+      "clue": "Where we first met in person"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "answer": "HAYLEY",
+      "row": 3,
+      "col": 10,
+      "clue": "The coolest girl in the world, according to Mandy (and no, it’s not her)"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "answer": "HOME",
+      "row": 4,
+      "col": 0,
+      "clue": "What we’re building with Poppy, Karl, and a lot of porch coffee"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "answer": "MANDY",
+      "row": 4,
+      "col": 2,
+      "clue": "The only acceptable version of Amanda"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "answer": "PHILLY",
+      "row": 5,
+      "col": 5,
+      "clue": "Where our next chapter started"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "answer": "YOUTUBE",
+      "row": 8,
+      "col": 2,
+      "clue": "Home of builders, murder docs, and an unreasonable number of our evenings"
+    },
+    {
+      "number": 11,
+      "direction": "down",
+      "answer": "BIT",
+      "row": 8,
+      "col": 7,
+      "clue": "What a certain Hinge profile said to commit to"
+    },
+    {
+      "number": 12,
+      "direction": "across",
+      "answer": "COMMIT",
+      "row": 10,
+      "col": 2,
+      "clue": "What that Hinge profile told me to do — apparently I listened"
+    }
+  ],
+  "reveal": "WILL YOU MARRY ME?"
+}
